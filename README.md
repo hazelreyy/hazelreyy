@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hazelreyy
+- 👋 Hi, I’m alessia but you can call me rey
 - 👀 I’m interested in journalistic and education
 - 🌱 I’m currently learning english and educational technology
 - 💞️ I’m looking to collaborate on social project about education and SDGs
