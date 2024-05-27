@@ -1,8 +1,8 @@
-- 👋 Hi, I’m alessia but you can call me rey
-- 👀 I’m interested in journalistic and education
-- 🌱 I’m currently learning english and educational technology
-- 💞️ I’m looking to collaborate on social project about education and SDGs
-- 📫 How to reach me: connect with me on Linkedin
+- 👋 Hi, I’m Refiana but you can call me rey
+- 👀 I’m interested in  Education, Public Relation and IT
+- 🌱 I’m majoring in educational technology
+- 💞️ I’m a lifelong learner
+- 📫 Connect with me on Linkedin
 
 <!---
 hazelreyy/hazelreyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
